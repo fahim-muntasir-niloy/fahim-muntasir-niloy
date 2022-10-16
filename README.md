@@ -1,5 +1,5 @@
 # 💫 About Me:
-A fresh graduate with interest in machine learning, data science, ui/ux and web development. <br>I have knowledge in interpreting, and analysing various types of statistical figures.<br>In my free time, I love to code. My diverse portfolio and skill set would surely<br>speak to the fact that I am a quick learner and a relentless enthusiast.<br><br>Currently, I am learning Data Structure and Algorithm from CS50.
+A fresh graduate with interest in machine learning, data science, ui/ux and web development. <br>I have knowledge in interpreting, and analysing various types of statistical figures.<br>In my free time, I love to code. My diverse portfolio and skill set would surely<br>speak to the fact that I am a quick learner and a relentless enthusiast.<br><br>Currently, I am learning Data Structure and Algorithm.
 
 
 ## 🌐 Socials:

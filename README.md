@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fahim Muntasir
 ======================================================================================================================================
 
-MLOPS, Web Dev
+Research, Knowledge Sharing, Adaptablity
 --------------
 
 A fresh graduate in electrical engineering but interest in machine learning, data science, UI/UX and web development. I have knowledge in interpreting, and analyzing various types of statistical figures. I love to read and write codes.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [muntasirfahim.niloy@gmail.com](mailto:muntasirfahim.niloy@gmail.com)
-* 🚀  I'm currently working on [CNN using Pytorch](http://https://github.com/fahim-muntasir-niloy/MNIST_handwrite_prediction_NN)
-* 🧠  I'm learning Neural Networks
+* 🚀  I'm currently working as Reasearch Engineer, AIMS Lab, UIU.
+* 🧠  I'm learning explainable computer vision and focusing more into data understanding
 * ⚡  If I am not coding, search me on a mountain
 
 <a href="https://www.github.com/fahim-muntasir-niloy" target="_blank" rel="noreferrer"><img

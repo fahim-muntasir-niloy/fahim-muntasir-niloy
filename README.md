@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Research, Knowledge Sharing, Adaptablity
 --------------
 
-A fresh graduate in electrical engineering but interest in machine learning, data science, UI/UX and web development. I have knowledge in interpreting, and analyzing various types of statistical figures. I love to read and write codes.
+As an aspiring data scientist, my research interests are centred around the application of machine learning in ways that directly benefit and engage with people. I believe that the true potential of machine learning can be unlocked when we integrate its capabilities into various domains, fostering cross‑disciplinary collaboration for innovative solutions. I am focused on developing AI systems that are not only highly functional but also intuitive, interpretable and transparent.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [muntasirfahim.niloy@gmail.com](mailto:muntasirfahim.niloy@gmail.com)

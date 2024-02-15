@@ -8,7 +8,7 @@ As an aspiring data scientist, my research interests are centred around the appl
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [muntasirfahim.niloy@gmail.com](mailto:muntasirfahim.niloy@gmail.com)
-* 🚀  I'm currently working as Reasearch Engineer, AIMS Lab, UIU.
+* 🚀  I'm a graduate student at BRAC University.
 * 🧠  I'm learning explainable computer vision and focusing more into data understanding
 * ⚡  If I am not coding, search me on a mountain
 

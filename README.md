@@ -1,21 +1,72 @@
-<h1 align="center">Howdy!🤠 Fahim Muntasir</h1>
-<h3 align="center">I make computer talk, sometimes I talk to them 🤦‍♂️</h3>
+# 👋 Hi, I'm Fahim Muntasir
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim-muntasir-niloy&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-muntasir-niloy" /> </p>
+🎯 **AI Engineer | Researcher | Agentic Systems Specialist**  
+🚀 Building intelligent agents, scalable backends, and real-world AI solutions  
+📍 Dhaka, Bangladesh | 🌐 [Personal Website](https://sites.google.com/view/muntasirfahim/about)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim-muntasir-niloy" alt="fahim-muntasir-niloy" /></a> </p>
+## 🧠 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm a passionate AI engineer with experience in developing agentic systems, machine learning pipelines, and intelligent applications. I specialize in **LangGraph**, **RAG pipelines**, and **LLM-based automation**. With a strong academic background and real-world deployments across diverse domains, I aim to push the boundaries of **explainable, scalable AI**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔧 Current Roles
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-muntasir-niloy&show_icons=true&locale=en&layout=compact" alt="fahim-muntasir-niloy" /></p>
+- **AI Engineer @ Next Country**  
+  🔹 Multi-Agent Systems for enhanced knowledge retrieval using LangGraph
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-muntasir-niloy&show_icons=true&locale=en" alt="fahim-muntasir-niloy" /></p>
+- **AI Engineer @ Simplifai**  
+  🔹 Built AI agents and backend APIs for HR automation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-muntasir-niloy&" alt="fahim-muntasir-niloy" /></p>
+- **Software Engineer (MLOps) @ CloudsCockpit**  
+  🔹 Migrated LangGraph agents to Google ADK and developed RAG tools for enterprise apps
+
+## 📚 Academic Background
+
+- 🎓 **MSc in Computer Science and Engineering**  
+  BRAC University (Ongoing)
+
+- 🎓 **BSc in Electrical and Electronic Engineering**  
+  RUET — Graduated 2023
+
+## 📌 Selected Projects
+
+### 🤖 [Pregnancy Care Bot](https://github.com/fahim-muntasir-niloy/pregnancy-care-bot)  
+A multilingual RAG chatbot (Bangla + English) built using LangGraph. Includes web search fallback for unknown queries.
+
+### 🗺️ [Bangladesh Geo-JSON Map](https://github.com/fahim-muntasir-niloy/Bangladesh-geojson_project)  
+Solo open-source contribution — Built updated GeoJSON map and choropleth visualizations using Plotly.
+
+
+## 📝 Notable Publications
+
+- 🧠 *Lime-ray: What does a neural network see from X-rays?* – ICICT 2024  
+- 🔍 *Gender Bias in Sexism Detection* – NSS 2024  
+- 🏥 *Federated Learning in Healthcare* – Taylor & Francis (Preprint)  
+- 🔧 *YOLOv8 Benchmarking for Fault Detection* – ICEEICT 2024  
+→ Full list on [Google Scholar](#) or [ResearchGate](https://www.researchgate.net/profile/Fahim-Muntasir)
+
+
+## 🏆 Achievements
+
+- 🥇 Full Merit Scholarships – Gov. of Bangladesh (2014, 2016)  
+- 🥈 1st Runner Up – Robo Soccer @ IUT  
+- 🥉 2nd Runner Up – IEEE-CS Project Showcasing @ RUET  
+- ✍️ IELTS: Band 8 (R:9, L:8.5, W:7, S:6.5)
+
+## 🧰 Tech Stack
+
+**Languages**: Python, JavaScript, C++, Bash  
+**AI/ML**: LangGraph, LangChain, PyTorch, Scikit-learn, TensorFlow, RAG, LLMs, MCP, Google ADK
+**Dev**: FastAPI, Django, Streamlit, SQL, PostgreSQL, MongoDB  
+**Tools**: Git, OpenRefine, Power BI, Tableau, LaTeX
+
+## 📫 Let's Connect!
+
+- ✉️ Email: muntasirfahim.niloy@gmail.com  
+- 🔗 GitHub: [@fahim-muntasir-niloy](https://github.com/fahim-muntasir-niloy)  
+- 🌐 Website: [Portfolio](https://sites.google.com/view/muntasirfahim/about)  
+- 🧠 Open to collaborations in AI research, agentic frameworks, and LLM applications.
+
+---
+
+*“Build AI not just to solve problems, but to understand them better.”*

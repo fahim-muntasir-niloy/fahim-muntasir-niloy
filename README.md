@@ -28,11 +28,7 @@ I'm a passionate AI engineer with experience in developing agentic systems, mach
 - 🎓 **BSc in Electrical and Electronic Engineering**  
   RUET — Graduated 2023
 
-## 📌 Selected Projects
-
-### 🤖 [Pregnancy Care Bot](https://github.com/fahim-muntasir-niloy/pregnancy-care-bot)  
-A multilingual RAG chatbot (Bangla + English) built using LangGraph. Includes web search fallback for unknown queries.
-
+## 📌 Open Source Contribution
 ### 🗺️ [Bangladesh Geo-JSON Map](https://github.com/fahim-muntasir-niloy/Bangladesh-geojson_project)  
 Solo open-source contribution — Built updated GeoJSON map and choropleth visualizations using Plotly.
 
@@ -40,7 +36,7 @@ Solo open-source contribution — Built updated GeoJSON map and choropleth visua
 ## 📝 Notable Publications
 
 - 🧠 *Lime-ray: What does a neural network see from X-rays?* – ICICT 2024  
-- 🔍 *Gender Bias in Sexism Detection* – NSS 2024  
+- 🔍 *Gender Bias in Sexism Detection* – NSySs 2024  
 - 🏥 *Federated Learning in Healthcare* – Taylor & Francis (Preprint)  
 - 🔧 *YOLOv8 Benchmarking for Fault Detection* – ICEEICT 2024  
 → Full list on [Google Scholar](#) or [ResearchGate](https://www.researchgate.net/profile/Fahim-Muntasir)

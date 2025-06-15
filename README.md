@@ -51,10 +51,10 @@ Solo open-source contribution — Built updated GeoJSON map and choropleth visua
 
 ## 🧰 Tech Stack
 
-**Languages**: Python, JavaScript, C++, Bash  
-**AI/ML**: LangGraph, LangChain, PyTorch, Scikit-learn, TensorFlow, RAG, LLMs, MCP, Google ADK
-**Dev**: FastAPI, Django, Streamlit, SQL, PostgreSQL, MongoDB  
-**Tools**: Git, OpenRefine, Power BI, Tableau, LaTeX
+- **Languages**: Python, JavaScript, C++, Bash  
+- **AI/ML**: LangGraph, LangChain, PyTorch, Scikit-learn, TensorFlow, RAG, LLMs, MCP, Google ADK
+- **Development**: FastAPI, Django, Streamlit, SQL, PostgreSQL, MongoDB  
+- **Tools**: Git, OpenRefine, Power BI, Tableau, LaTeX
 
 ## 📫 Let's Connect!
 

@@ -11,7 +11,7 @@ I'm a passionate AI engineer with experience in developing agentic systems, mach
 
 ## 🔧 Current Roles
 
-- ** Lead AI Engineer @ Next Country**  
+- **Lead AI Engineer @ Next Country**  
   🔹 Multi-Agent Systems for enhanced knowledge retrieval using LangGraph
 
 - **Software Engineer (MLOps) @ CloudsCockpit**  

@@ -11,11 +11,8 @@ I'm a passionate AI engineer with experience in developing agentic systems, mach
 
 ## 🔧 Current Roles
 
-- **AI Engineer @ Next Country**  
+- ** Lead AI Engineer @ Next Country**  
   🔹 Multi-Agent Systems for enhanced knowledge retrieval using LangGraph
-
-- **AI Engineer @ Simplifai**  
-  🔹 Built AI agents and backend APIs for HR automation
 
 - **Software Engineer (MLOps) @ CloudsCockpit**  
   🔹 Migrated LangGraph agents to Google ADK and developed RAG tools for enterprise apps
@@ -52,7 +49,8 @@ Solo open-source contribution — Built updated GeoJSON map and choropleth visua
 ## 🧰 Tech Stack
 
 - **Languages**: Python, JavaScript, C++, Bash  
-- **AI/ML**: LangGraph, LangChain, PyTorch, Scikit-learn, TensorFlow, RAG, LLMs, MCP, Google ADK
+- **AI/ML**: LangGraph, LangChain, PyTorch, Scikit-learn, TensorFlow, RAG, LLMs, Model Context Protocol, Google ADK
+- **Cloud Ops**: AWS, GCP
 - **Development**: FastAPI, Django, Streamlit, SQL, PostgreSQL, MongoDB  
 - **Tools**: Git, OpenRefine, Power BI, Tableau, LaTeX
 

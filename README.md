@@ -9,18 +9,14 @@
 I'm a passionate AI engineer with experience in developing agentic systems, machine learning pipelines, and intelligent applications. I specialize in **LangGraph**, **RAG pipelines**, and **LLM-based automation**. With a strong academic background and real-world deployments across diverse domains, I aim to push the boundaries of **explainable, scalable AI**.
 
 
-## 🔧 Current Roles
+## 🔧 Current Role
 
-- **Lead AI Engineer @ Next Country**  
-  🔹 Multi-Agent Systems for enhanced knowledge retrieval using LangGraph
-
-- **Software Engineer (MLOps) @ CloudsCockpit**  
-  🔹 Migrated LangGraph agents to Google ADK and developed RAG tools for enterprise apps
+- **AI Engineer II @ Surbana Technologies Ltd**  
 
 ## 📚 Academic Background
 
 - 🎓 **MSc in Computer Science and Engineering**  
-  BRAC University (Ongoing)
+  BRAC University — Graduated 2025
 
 - 🎓 **BSc in Electrical and Electronic Engineering**  
   RUET — Graduated 2023
